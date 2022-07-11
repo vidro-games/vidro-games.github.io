@@ -1,2 +1,4 @@
-# vidro-games.github.io
-Vidro Games Github Website
+# Vidro Games
+
+This website is under construction. Below you can find a couple of essential links:
+- ["Spânzurătoarea" game privacy policy]([https.com](https://vidro-games.github.io/privacy_spanzuratoarea)
